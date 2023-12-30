@@ -1,0 +1,208 @@
+.co4 {
+  color: var(--color-white);
+}
+.frame-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.eco4{
+  font-size: 50px;
+  width: 35px;
+  background-color: transparent;
+  color: rgba(61,244,112,1);
+  border: none;
+}
+.frame-child8 {
+  top: 4px;
+  left: 778px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 335px;
+  height: 50px;
+}
+.image-6-icon4 {
+  position: absolute;
+  top: 14px;
+  left: 1069px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.search4 {
+  position: absolute;
+  top: 17px;
+  left: 809px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.frame-child9,
+.image-7-icon4 {
+  position: absolute;
+  top: 1px;
+  left: 1197px;
+  width: 57px;
+  height: 57px;
+}
+.image-7-icon4 {
+  top: 12px;
+  left: 1208px;
+  width: 35px;
+  height: 34px;
+  object-fit: cover;
+}
+.eco-parent1,
+.frame-child10 {
+  position: absolute;
+  top: 44px;
+  left: 1235px;
+  width: 15px;
+  height: 15px;
+}
+.eco-parent1 {
+  top: 81px;
+  left: 56px;
+  width: 1254px;
+  height: 58px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-springgreen);
+}
+.user-information2 {
+  position: absolute;
+  top: 226px;
+  left: 30px;
+  cursor: pointer;
+  font-size: 25px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+}
+.settings2
+{
+  position: absolute;
+  top: 400px;
+  left: 65px;
+  font-size: 30px;
+}
+.support2{
+  position: absolute;
+  top: 480px;
+  left: 70px;
+  color: #fff;
+  font-size: 30px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+
+}
+
+.desktop-19-child {
+  position: absolute;
+  top: 304px;
+  left: 37px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 180px;
+  height: 51px;
+}
+.payments2 {
+  position: absolute;
+  top: 318px;
+  left: 78px;
+  color: var(--color-black);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bank-account-details {
+  position: absolute;
+  top: 214px;
+  left: 318px;
+  font-size: var(--font-size-21xl);
+}
+.desktop-19-inner,
+.desktop-19-item {
+  position: absolute;
+  top: 292px;
+  left: 318px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  width: 578px;
+  height: 121px;
+}
+.desktop-19-inner {
+  top: 432px;
+}
+.desktop-19-child1,
+.image-14-icon {
+  position: absolute;
+  top: 316px;
+  left: 336px;
+  width: 74px;
+  height: 74px;
+}
+.image-14-icon {
+  top: 333px;
+  left: 352px;
+  width: 41px;
+  height: 40px;
+  object-fit: cover;
+}
+.state-bank-of {
+  top: 324px;
+  left: 423px;
+}
+.sbi,
+.state-bank-of,
+.xxxx3020 {
+  position: absolute;
+  font-size: var(--font-size-mini);
+}
+.sbi {
+  top: 353px;
+  left: 423px;
+  color: var(--color-darkgray);
+}
+.xxxx3020 {
+  top: 342px;
+  left: 713px;
+}
+.desktop-19-child2,
+.desktop-19-child3,
+.desktop-19-child4 {
+  position: absolute;
+  top: 338px;
+  left: 850px;
+  width: 6px;
+  height: 6px;
+}
+.desktop-19-child3,
+.desktop-19-child4 {
+  top: 357px;
+}
+.desktop-19-child4 {
+  top: 347px;
+}
+.desktop-19-child5 {
+  position: absolute;
+  top: 470px;
+  left: 355px;
+  width: 35px;
+  height: 35px;
+}
+.add-another-bank {
+  position: absolute;
+  top: 479px;
+  left: 447px;
+  font-size: var(--font-size-mini);
+  color: var(--color-springgreen);
+}
+.desktop-19 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1031px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,187 @@
+.desktop-16-child {
+  position: absolute;
+  top: 213px;
+  left: 17px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 180px;
+  height: 51px;
+}
+.co1 {
+  color: var(--color-white);
+}
+.eco1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div {
+  top: 4px;
+  left: 778px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 335px;
+  height: 50px;
+}
+.image-6-icon1 {
+  position: absolute;
+  top: 14px;
+  left: 1069px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.search1 {
+  position: absolute;
+  top: 17px;
+  left: 809px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.frame-child1,
+.image-7-icon1 {
+  position: absolute;
+  top: 1px;
+  left: 1197px;
+  width: 57px;
+  height: 57px;
+}
+.image-7-icon1 {
+  top: 12px;
+  left: 1208px;
+  width: 35px;
+  height: 34px;
+  object-fit: cover;
+}
+.eco-group,
+.frame-child2 {
+  position: absolute;
+  top: 44px;
+  left: 1235px;
+  width: 15px;
+  height: 15px;
+}
+.eco-group {
+  top: 81px;
+  left: 56px;
+  width: 1254px;
+  height: 58px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-springgreen);
+}
+.dashboard1 {
+  position: absolute;
+  top: 226px;
+  left: 57px;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  color: #000;
+}
+.account1,
+.log-out1 {
+  position: absolute;
+  top: 382px;
+  left: 72px;
+}
+.account1 {
+  top: 304px;
+  left: 69px;
+  cursor: pointer;
+}
+.desktop-16-item {
+  position: absolute;
+  top: 204px;
+  left: 307px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-black);
+  width: 1003px;
+  height: 744px;
+}
+.desktop-16-inner {
+  position: absolute;
+  top: 340px;
+  left: 411.59px;
+  border-radius: var(--br-8xs);
+  width: 898.88px;
+  height: 455.54px;
+}
+.desktop-16-child1,
+.desktop-16-child2 {
+  position: absolute;
+  top: 737.04px;
+  left: 412.49px;
+  border-top: 3px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 875.01px;
+  height: 3px;
+}
+.desktop-16-child2 {
+  top: 815.58px;
+  left: 412.5px;
+  border-top: 3px solid var(--color-white);
+  width: 875px;
+}
+.d1,
+.m1,
+.w1,
+.y2,
+.y3 {
+  position: absolute;
+  top: 842px;
+  left: 603px;
+  display: inline-block;
+  width: 50px;
+}
+.m1,
+.w1,
+.y2,
+.y3 {
+  left: 706px;
+}
+.m1,
+.y2,
+.y3 {
+  left: 1015px;
+}
+.m1,
+.y3 {
+  left: 912px;
+}
+.m1 {
+  left: 809px;
+}
+.desktop-16-child3 {
+  position: absolute;
+  top: 245px;
+  left: 352px;
+  width: 55px;
+  height: 55px;
+}
+.enphase-energy-inc,
+.image-13-icon {
+  position: absolute;
+  top: 262px;
+  left: 429px;
+}
+.image-13-icon {
+  top: 259px;
+  left: 367px;
+  width: 26px;
+  height: 27px;
+  object-fit: cover;
+}
+.desktop-16 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 965px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

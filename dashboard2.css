@@ -1,0 +1,579 @@
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  border-radius: var(--br-21xl);
+}
+.desktop-4-child {
+  top: 280px;
+  left: 341px;
+  background-color: var(--color-gray-100);
+  width: 969px;
+  height: 122px;
+  cursor: pointer;
+}
+.desktop-4-item {
+  top: 213px;
+  left: 17px;
+  background-color: var(--color-springgreen);
+  width: 180px;
+  height: 51px;
+}
+.co {
+  color: white;
+  left: -30px;
+  background: transparent;
+
+}
+.eco,
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ebut{
+  font-size:60px;
+  width: 40px;
+  height: 10px;
+  top: 10px;
+  left: 0;
+  color:rgba(61,244,112,1);
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+.frame-child {
+  top: 4px;
+  left: 778px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 335px;
+  height: 50px;
+}
+.image-6-icon {
+  position: absolute;
+  top: 14px;
+  left: 1069px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.search {
+  position: absolute;
+  top: 17px;
+  left: 809px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.frame-item,
+.image-7-icon {
+  position: absolute;
+  top: 1px;
+  left: 1197px;
+  width: 57px;
+  height: 57px;
+}
+.image-7-icon {
+  top: 12px;
+  left: 1208px;
+  width: 35px;
+  height: 34px;
+  object-fit: cover;
+}
+.eco-parent,
+.frame-inner {
+  position: absolute;
+  top: 44px;
+  left: 1235px;
+  width: 15px;
+  height: 15px;
+}
+.eco-parent {
+  top: 81px;
+  left: 56px;
+  width: 1254px;
+  height: 58px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-springgreen);
+}
+.dashboard {
+  position: absolute;
+  top: 226px;
+  left: 57px;
+  color: var(--color-black);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.log-out {
+  position: absolute;
+  top: 382px;
+  left: 55px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  font-size: 30px;
+
+  cursor: pointer;
+  outline: none;
+}
+.account {
+  top: 300px;
+  left: 50px;
+  cursor: pointer;
+  font-size: 30px;
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  outline: none;
+  border: none;
+
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 314px;
+  left: 372px;
+  width: 55px;
+  height: 55px;
+}
+.desktop-4-child2,
+.rectangle-div {
+  position: absolute;
+  top: 1275px;
+  left: 326px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 969px;
+  height: 122px;
+}
+.desktop-4-child2 {
+  top: 1076px;
+  left: 337px;
+}
+.b {
+  position: absolute;
+  top: 1139px;
+  left: 875px;
+  color: var(--color-mediumspringgreen);
+}
+.canadian-solar-inc,
+.csiq {
+  position: absolute;
+  left: 445px;
+}
+.csiq {
+  top: 1139px;
+  color: var(--color-darkgray);
+}
+.canadian-solar-inc {
+  top: 1108px;
+}
+.desktop-4-child5 {
+  position: absolute;
+  top: 678px;
+  left: 341px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 969px;
+  height: 122px;
+}
+.b1,
+.orsted-as {
+  position: absolute;
+}
+.b1 {
+  top: 739px;
+  left: 862px;
+  color: var(--color-mediumspringgreen);
+}
+.orsted-as {
+  top: 710px;
+  left: 445px;
+}
+.desktop-4-child6,
+.desktop-4-child7,
+.desktop-4-child8 {
+  position: absolute;
+  top: 711px;
+  left: 372px;
+  width: 55px;
+  height: 55px;
+}
+.desktop-4-child7,
+.desktop-4-child8 {
+  top: 1109px;
+}
+.desktop-4-child8 {
+  top: 1308px;
+}
+.desktop-4-child10 {
+  position: absolute;
+  top: 479px;
+  left: 341px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 969px;
+  height: 122px;
+}
+.nextera-energyinc {
+  position: absolute;
+  top: 513px;
+  left: 445px;
+}
+.desktop-4-child11,
+.image-8-icon {
+  position: absolute;
+  top: 513px;
+  left: 372px;
+  width: 55px;
+  height: 55px;
+}
+.image-8-icon {
+  top: 325px;
+  left: 382px;
+  border-radius: 5px;
+  width: 36px;
+  height: 32px;
+  object-fit: cover;
+}
+.teslainc,
+.tsla {
+  position: absolute;
+  left: 445px;
+  font-weight: 600;
+}
+.tsla {
+  top: 345px;
+  color: var(--color-darkgray);
+}
+.teslainc {
+  top: 313px;
+}
+.image-9-icon {
+  position: absolute;
+  top: 526px;
+  left: 383px;
+  width: 34px;
+  height: 28px;
+  object-fit: cover;
+}
+.nee {
+  position: absolute;
+  top: 544px;
+  left: 445px;
+  color: var(--color-darkgray);
+}
+.image-10-icon {
+  position: absolute;
+  top: 722px;
+  left: 383px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.orsted {
+  position: absolute;
+  top: 739px;
+  left: 445px;
+  color: var(--color-darkgray);
+}
+.v8-40-1-icon {
+  position: absolute;
+  top: 1122px;
+  left: 383px;
+  width: 34px;
+  height: 29px;
+  object-fit: cover;
+}
+.enph,
+.enphase-energy-inc {
+  position: absolute;
+  top: 1308px;
+  left: 445px;
+}
+.enph {
+  top: 1339px;
+  color: var(--color-darkgray);
+}
+.image-12-icon {
+  position: absolute;
+  top: 1322px;
+  left: 387px;
+  width: 26px;
+  height: 27px;
+  object-fit: cover;
+}
+.market-cap,
+.market-cap1,
+.market-cap2 {
+  position: absolute;
+  top: 313px;
+  left: 834px;
+}
+.market-cap1,
+.market-cap2 {
+  top: 1308px;
+}
+.market-cap2 {
+  top: 1108px;
+}
+.b2,
+.b3,
+.b4,
+.market-cap3,
+.market-cap4 {
+  position: absolute;
+  top: 710px;
+  left: 834px;
+}
+.b2,
+.b3,
+.b4,
+.market-cap4 {
+  top: 513px;
+}
+.b2,
+.b3,
+.b4 {
+  top: 345px;
+  left: 859px;
+  color: var(--color-mediumspringgreen);
+}
+.b3,
+.b4 {
+  top: 544px;
+  left: 860px;
+}
+.b4 {
+  top: 1339px;
+  left: 865px;
+}
+.hr-change,
+.hr-change1 {
+  position: absolute;
+  top: 313px;
+  left: 1013px;
+}
+.hr-change1 {
+  top: 1308px;
+}
+.hr-change2,
+.hr-change3,
+.hr-change4 {
+  position: absolute;
+  top: 1108px;
+  left: 1013px;
+}
+.hr-change3,
+.hr-change4 {
+  top: 710px;
+}
+.hr-change4 {
+  top: 513px;
+}
+.b5 {
+  top: 345px;
+  left: 1041px;
+  color: var(--color-mediumspringgreen);
+  -webkit-text-stroke: 1px #000;
+}
+.b5,
+.b6,
+.b7,
+.b8,
+.b9 {
+  position: absolute;
+}
+.b6 {
+  top: 1339px;
+  left: 1044px;
+  color: var(--color-mediumspringgreen);
+}
+.b7,
+.b8,
+.b9 {
+  top: 1139px;
+  left: 1051px;
+}
+.b8,
+.b9 {
+  top: 736px;
+  left: 1041px;
+  color: var(--color-mediumspringgreen);
+}
+.b9 {
+  top: 544px;
+  left: 1039px;
+}
+.group-child1{
+  position: absolute;
+  top: 0;
+  left: 5px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+}
+.group-child2{
+  position: absolute;
+  top: 5px;
+  left: 4px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+}
+.group-child3{
+  position: absolute;
+  top:5px ;
+  left: 5px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+}
+.group-child4{
+  position: absolute;
+  top: 5px;
+  left: 00px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+  font-size: 10px;
+}
+.group-child5{
+  position: absolute;
+  top: 380px;
+  left: -10px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+}
+.group-child6{
+  position: absolute;
+  top:800px;
+  left: 10px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-springgreen);
+  width: 89px;
+  height: 42px;
+}
+.buy {
+  position: absolute;
+  top: 9px;
+  left: 26px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-div,
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent,
+.rectangle-parent1,
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4{
+  position: absolute;
+  top: 316px;
+  left: 1182px;
+  width: 89px;
+  height: 42px;
+  color: var(--color-black);
+}
+.group-div,
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent1 {
+  top: 519px;
+  cursor: pointer;
+}
+.group-div,
+.rectangle-container,
+.rectangle-parent1 {
+  top: 718px;
+}
+.group-div,
+.rectangle-parent1 {
+  top: 1111px;
+}
+.rectangle-parent1 {
+  top: 1310px;
+}
+.desktop-4-child12 {
+  position: absolute;
+  top: 875px;
+  left: 326px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  width: 969px;
+  height: 122px;
+}
+.vws {
+  position: absolute;
+  top: 940px;
+  left: 445px;
+  color: var(--color-darkgray);
+}
+.b10,
+.market-cap5 {
+  position: absolute;
+  top: 907px;
+  left: 834px;
+}
+.b10 {
+  top: 940px;
+  left: 864px;
+  color: var(--color-mediumspringgreen);
+}
+.b11,
+.hr-change5 {
+  position: absolute;
+  top: 907px;
+  left: 1013px;
+}
+.b11 {
+  top: 939px;
+  left: 1046px;
+  color: var(--color-mediumspringgreen);
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 916px;
+  left: 1182px;
+  width: 89px;
+  height: 42px;
+  cursor: pointer;
+  color: var(--color-black);
+}
+.desktop-4-child13 {
+  position: absolute;
+  top: 909px;
+  left: 372px;
+  width: 55px;
+  height: 55px;
+}
+.image-11-icon,
+.vestas-wind-systems {
+  position: absolute;
+  top: 907px;
+  left: 445px;
+}
+.image-11-icon {
+  top: 932px;
+  left: 377px;
+  width: 47px;
+  height: 9px;
+  object-fit: cover;
+}
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1518px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
